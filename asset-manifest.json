@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a8c7b80.chunk.css",
+    "main.js": "/static/js/main.f9ea7af5.chunk.js",
+    "main.js.map": "/static/js/main.f9ea7af5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0687a61d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0687a61d.js.map",
+    "static/js/2.840ce608.chunk.js": "/static/js/2.840ce608.chunk.js",
+    "static/js/2.840ce608.chunk.js.map": "/static/js/2.840ce608.chunk.js.map",
+    "static/js/3.1f43ebc8.chunk.js": "/static/js/3.1f43ebc8.chunk.js",
+    "static/js/3.1f43ebc8.chunk.js.map": "/static/js/3.1f43ebc8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3a8c7b80.chunk.css.map": "/static/css/main.3a8c7b80.chunk.css.map",
+    "static/js/2.840ce608.chunk.js.LICENSE.txt": "/static/js/2.840ce608.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/RobotoCondensed-BoldItalic.0a20e01b.woff",
+    "static/media/matras.6a46d5fe.jpg": "/static/media/matras.6a46d5fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0687a61d.js",
+    "static/js/2.840ce608.chunk.js",
+    "static/css/main.3a8c7b80.chunk.css",
+    "static/js/main.f9ea7af5.chunk.js"
+  ]
+}
